@@ -3,5 +3,7 @@
 .obsidian/cache/
 .obsidian/plugins/*/data.json
 .trash/
+*.pdf
+*.epub
 .DS_Store
 Thumbs.db
